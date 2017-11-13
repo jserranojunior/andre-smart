@@ -1,0 +1,24 @@
+ Ativar e Desativar Recursos do Windows
+    Serviçis de informação da internet>Serviços www> Recursos de Desenvolvimento
+    Habilitar ASP E ISS
+ 
+ ###### CONFIGURAÇÂO DO IIS
+
+- ASP
+    Propridade de depuração> Enviar erros ao navegador: TRUE
+    CAMINHOS PAI: TRUE
+
+- Configurações Básicas
+    Caminho Fisico: C:\inetpub\wwwroot\producao\intranet
+
+- Configuração de Blinding ou Associações
+    Mudar para a porta requerida
+
+- Configurações Avançadas
+    Pool de Aplicativos: Mudar para Asp Classico
+
+
+#### ARQUIVOS
+- Includes/dbConn.vdlap
+    Selecionar Banco de Dados
+
