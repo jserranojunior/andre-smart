@@ -1,8 +1,0 @@
-CD_codigo int
-cd_unidade int Null
-cd_num_inicio char10 Null
-cd_num_fim char 10 Null
-dt_data datetime 8 Null
-user_inc int
-user_upd int
-user_upd_data datetime

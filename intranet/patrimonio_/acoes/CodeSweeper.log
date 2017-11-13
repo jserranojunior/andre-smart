@@ -1,9 +1,0 @@
-Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
-Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
-Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 
-Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 
-Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 
-Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 
-Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 
-Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 
-Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 

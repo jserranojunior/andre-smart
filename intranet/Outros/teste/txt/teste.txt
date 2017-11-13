@@ -1,1 +1,0 @@
-equipamento,controle,marca,modelo,periodicidade,data;equipamento,controle,marca,modelo,periodicidade,data;equipamento,controle,marca,modelo,periodicidade,data
