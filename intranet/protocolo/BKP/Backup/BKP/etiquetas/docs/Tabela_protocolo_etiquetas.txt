@@ -1,0 +1,10 @@
+TBL_protocolo_etiquetas
+
+cd_codigo int
+cd_unidade int
+cd_num_inicio char 10
+cd_num_fim char 10
+dt_data datetime
+user_inc int
+user_upd int
+user_upd_data datetime

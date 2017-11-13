@@ -1,0 +1,51 @@
+/* estilos de formatacao do menu*/
+#menu {
+	width: 150px;
+	background-color: #888888;}
+
+#menu div {
+ 	margin: 0px 0px 0px;
+ 	height: 18px;}
+
+html>body #menu div {
+	margin: 4px 0px 0px;}
+
+#menu a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #111111;
+	font-size: 70%;
+	text-decoration: none;}
+
+#menu a.divisoria {
+    color: #dddddd;
+    border: 1px solid #dddddd;
+	font-weight: bold;
+	display: block;
+	height: 12px;
+	padding-top: 1px;
+	background-position: 4px 8px;
+	padding-left: 14px;
+	padding-bottom: 1px;	
+	margin: 2px 0px 0px;
+	padding-left:1px;
+	padding-top:1px;
+	padding-bottom:1px;
+	height:20px;}
+
+#menu a:hover {
+	color: #ffffff; 
+	text-decoration: underline;}
+
+html>body #menu a.divisoria {
+	margin: 4px 0px -1px;}
+
+
+#menu a.divisoria:hover{
+	text-decoration: none;}
+
+
+#pr, #sc, #tt, #dl, #lo, #cont, #int {
+ 	display:none;}
+
+#pr-dois, #sc-dois, #tt-dois, #dl-dois, #lo-dois, #cont-dois, #int-dois {
+	display:none;}

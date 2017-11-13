@@ -1,0 +1,49 @@
+End of file encountered while parsing (tag "%" with attributes selecao='tabela = " TBL_Espec" tabela= TBL_Especialidades condicoes=>). 
+End of file encountered while parsing (tag "%" with attributes selecao='tabela = " TBL_Espec" tabela= TBL_Especialidades condicoes= whwew>). 
+End of file encountered while parsing (tag "%" with attributes selecao='tabela = " TBL_Espec" tabela= TBL_Especialidades condicoes= where cd_status>). 
+End of file encountered while parsing (tag "%" with attributes selecao='tabela = " TBL_Espec" tabela= TBL_Especialidades condicoes= where cd_status =>). 
+Invalid quoted string 'cd_plan_prev' encountered while parsing (tag "%" with attributes cd_plan_prev=request(). 
+Invalid quoted string 'cd_plan_prev' encountered while parsing (tag "%" with attributes cd_plan_prev=request(). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%NUM_LISTA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%NUM_LISTA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%NUM_LISTA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%NUM_LISTA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%NUM_LISTA" with attributes). 
+Invalid character (&) encountered while parsing (tag "%" with attributes Dim= SEXECUTEABLE=ffmpeg.exe OSHELL= SVIDEOFILEPATH=video20.avi SOUTPUTFILEPATH=video20.png CMD=server.mappath(sExecuteable)). 
+Invalid character (&) encountered while parsing (tag "%" with attributes Dim= SEXECUTEABLE=ffmpeg.exe OSHELL= SVIDEOFILEPATH=video20.avi SOUTPUTFILEPATH=video20.png CMD=server.mappath(sExecuteable)). 
+Invalid character (&) encountered while parsing (tag "%" with attributes Dim= SEXECUTEABLE=ffmpeg.exe OSHELL= SVIDEOFILEPATH=video20.avi SOUTPUTFILEPATH=video20.png CMD=server.mappath(sExecuteable)). 
+Invalid character (&) encountered while parsing (tag "%'**********************************" with attributes strsql=SELECT top 1 * FROM TBL_patrimonio_movimentacao where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%'**********************************" with attributes strsql=SELECT top 1 * FROM TBL_patrimonio_movimentacao where cd_patrimonio = '). 
+Invalid quoted string 'strsql = "SELECT top 1 * FROM TBL_patrimonio_movimentacao where cd_patrimonio = ' encountered while parsing (tag "%'**********************************" with attributes). 
+Invalid quoted string 'strsql = "SELECT top 1 * FROM TBL_patrimonio_movimentacao where cd_patrimonio = ' encountered while parsing (tag "%'**********************************" with attributes). 
+Invalid quoted string 'strsql = "SELECT top 1 * FROM TBL_patrimonio_movimentacao where cd_patrimonio = ' encountered while parsing (tag "%'**********************************" with attributes). 
+Invalid quoted string 'strsql = "SELECT top 1 * FROM TBL_patrimonio_movimentacao where cd_patrimonio = ' encountered while parsing (tag "%'**********************************" with attributes). 
+Invalid quoted string 'strsql = "SELECT top 1 * FROM TBL_patrimonio_movimentacao where cd_patrimonio = ' encountered while parsing (tag "%'**********************************" with attributes). 
+Invalid quoted string 'if ISNULL(cd_pat_codigo) Then' encountered while parsing (tag "%'IF" with attributes not= ISNULL(CD_PAT_CODIGO)=). 
+Invalid quoted string 'if ISNULL(cd_pat_codigo) Then' encountered while parsing (tag "%'IF" with attributes not= ISNULL(CD_PAT_CODIGO)=). 
+Invalid quoted string 'if ISNULL(cd_pat_codigo) Then' encountered while parsing (tag "%'IF" with attributes not= ISNULL(CD_PAT_CODIGO)=). 
+Invalid quoted string 'if ISNULL(cd_pat_codigo) Then' encountered while parsing (tag "%'IF" with attributes not= ISNULL(CD_PAT_CODIGO)=). 
+Invalid quoted string 'if ISNULL(cd_pat_codigo) Then' encountered while parsing (tag "%'IF" with attributes not= ISNULL(CD_PAT_CODIGO)=). 
+End of file encountered while parsing (tag "%'**********************************" with attributes ultimo_movimento= STRSQL=>). 
+Invalid equal sign (=) encountered while parsing (tag "%'**********************************" with attributes ultimo_movimento=strsql). 
+Invalid quoted string '*** Lista as movimentações ***' encountered while parsing (tag "%'****************************" with attributes). 
+Invalid quoted string '*** Lista as movimentações ***' encountered while parsing (tag "%'****************************" with attributes). 
+Invalid quoted string '*** Lista as movimentações ***' encountered while parsing (tag "%'****************************" with attributes). 
+Invalid quoted string '*** Lista as movimentações ***' encountered while parsing (tag "%'****************************" with attributes). 
+Invalid quoted string '*** Lista as movimentações ***' encountered while parsing (tag "%'****************************" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%OS_TOTAL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%OS_TOTAL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%OS_TOTAL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%OS_TOTAL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%SOMA_VALORES_OS" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%SOMA_VALORES_OS" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_USER" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_USER" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_USER" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_USER" with attributes). 

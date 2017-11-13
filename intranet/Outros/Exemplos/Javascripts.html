@@ -1,0 +1,99 @@
+<script language="javascript">
+<!--
+VerifiqueTAB=true;
+function Mostra(quem, tammax) {
+if ( (quem.value.length == tammax) && (VerifiqueTAB) ) { 
+var i=0,j=0, indice=-1;
+for (i=0; i<document.forms.length; i++) { 
+for (j=0; j<document.forms[i].elements.length; j++) { 
+if (document.forms[i].elements[j].name == quem.name) { 
+indice=i;
+break;
+} 
+} 
+if (indice != -1) break; 
+} 
+for (i=0; i<=document.forms[indice].elements.length; i++) { 
+if (document.forms[indice].elements[i].name == quem.name) { 
+while ( (document.forms[indice].elements[(i+1)].type == "hidden") &&
+(i < document.forms[indice].elements.length) ) { 
+i++;
+} 
+document.forms[indice].elements[(i+1)].focus();
+VerifiqueTAB=false;
+break;
+} 
+} 
+} 
+} 
+function PararTAB(quem) { VerifiqueTAB=false; } 
+function ChecarTAB() { VerifiqueTAB=true; } 
+
+
+  function mOvr(src,clrOver) {
+    if (!src.contains(event.fromElement)) {
+	  src.style.cursor = 'hand';
+	  src.bgColor = clrOver;
+	}
+  }
+  function mOut(src,clrIn) {
+	if (!src.contains(event.toElement)) {
+	  src.style.cursor = 'default';
+	  src.bgColor = clrIn;
+	}
+  }
+
+function foco(){
+document.form.cd_patrimonio.focus(); }
+// -->	
+</script>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+nextfield = "cd_patrimonio"; // nome do primeiro campo do site
+netscape = "";
+ver = navigator.appVersion; len = ver.length;
+for(iln = 0; iln < len; iln++) if (ver.charAt(iln) == "(") break;
+	netscape = (ver.charAt(iln+1).toUpperCase() != "C");
+	function keyDown(DnEvents) {
+		// ve quando e o netscape ou IE
+		k = (netscape) ? DnEvents.which : window.event.keyCode;
+		if (k == 13) { // preciona tecla enter
+		if (nextfield == 'done') {
+			//alert("viu como funciona?");
+			eval('document.form.' + nextfield + '.focus()');
+			return false;
+			//return true; // envia quando termina os campos
+		} else {
+			// se existem mais campos vai para o proximo
+			eval('document.form.' + nextfield + '.focus()');
+			return false;
+		}
+	}
+}
+document.onkeydown = keyDown; // work together to analyze keystrokes
+if (netscape) document.captureEvents(Event.KEYDOWN|Event.KEYUP);
+// End -->
+</script>
+<script language="JavaScript">
+function validar_patrimonio(shipinfo){
+	if (shipinfo.cd_equipamento.value.length==""){window.alert ("Selecione um equipamento.");shipinfo.cd_equipamento.focus();return (false);
+	} else {
+	if (shipinfo.cd_marca.value.length==""){window.alert ("Selecione a marca do produto.");shipinfo.cd_marca.focus();return (false);
+	} else {
+	if (shipinfo.cd_dia.value.length==""){window.alert ("O campo Dia não foi preenchido.");shipinfo.cd_dia.focus();return (false);
+	} else {
+	if (shipinfo.cd_mes.value.length==""){window.alert ("O campo Mês não foi preenchido.");shipinfo.cd_mes.focus();return (false);
+	} else {
+	if (shipinfo.cd_ano.value.length==""){window.alert ("O campo Ano não foi preenchido.");shipinfo.cd_ano.focus();return (false);
+	} else {
+	}}}}}return (true);}
+</script>
+
+
+**********************************************************************************************
+
+Abrir janela
+<a href="javascript:void(0);" onclick="window.open('orcamentos_aprovados_os.asp?cd_orcamento=<%=cd_orcamento%>', 'orcamento<%=cd_orcamento%>', 'width=587, height=430, toolbar=0, location=0, status=0, scrollbars=1,resizable=1'); return false;"><%=nr_orcamento%></a>
+
+
+<img src="../../imagens/blackdot.gif" alt="Inclui" width="15" height="15" border="0" onClick="ordem('<%=ordem_campo%>',document.form.ordem_total.value,'<%=ordem_num%>')" id="<%=ordem_num%>" name="<%=ordem_num%>" <%if ordem_var <> "" Then%>style="display:none;"<%end if%>>

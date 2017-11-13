@@ -1,0 +1,351 @@
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid quoted string 'acao' encountered while parsing (tag "%" with attributes acao=request(). 
+Invalid quoted string 'acao' encountered while parsing (tag "%" with attributes acao=request(). 
+Invalid quoted string 'acao' encountered while parsing (tag "%" with attributes acao=request(). 
+Invalid quoted string 'acao' encountered while parsing (tag "%" with attributes acao=request(). 
+Invalid quoted string 'acao' encountered while parsing (tag "%" with attributes acao=request(). 
+Invalid quoted string 'acao' encountered while parsing (tag "%" with attributes acao=request(). 
+Invalid character (&) encountered while parsing (tag "%" with attributes sequencia='" xsql_andamento=SELECT * FROM View_andamento_lista Where cd_cod = ). 
+Invalid character (&) encountered while parsing (tag "%" with attributes sequencia='" xsql_andamento=SELECT * FROM View_andamento_lista Where cd_cod = ). 
+Invalid character (&) encountered while parsing (tag "%" with attributes sequencia='" xsql_andamento=SELECT * FROM View_andamento_lista Where cd_cod = ). 
+Invalid character (&) encountered while parsing (tag "%" with attributes sequencia='" xsql_andamento=SELECT * FROM View_andamento_lista Where cd_cod = ). 
+Invalid character (&) encountered while parsing (tag "%" with attributes sequencia='" xsql_andamento=SELECT * FROM View_andamento_lista Where cd_cod = ). 
+Invalid character (&) encountered while parsing (tag "%" with attributes sequencia='" xsql_andamento=SELECT * FROM View_andamento_lista Where cd_cod = ). 
+Invalid character (&) encountered while parsing (tag "%" with attributes sequencia='" xsql_andamento=SELECT * FROM View_andamento_lista Where cd_cod = ). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%X" with attributes). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid quoted string 'num_os' encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM_OS=rs_manutencao(). 
+Invalid quoted string 'num_os' encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM_OS=rs_manutencao(). 
+Invalid quoted string 'num_os' encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM_OS=rs_manutencao(). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid equal sign (=) encountered while parsing (tag "%X" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%X" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%X" with attributes). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid character (+) encountered while parsing (tag "%WHILE" with attributes not= RS_MANUTENCAO.EOF= NUM=num). 
+Invalid quoted string '****** Mostra as opções ***' encountered while parsing (tag "%" with attributes). 
+Invalid quoted string '****** Mostra as opções ***' encountered while parsing (tag "%" with attributes). 
+Invalid quoted string '****** Mostra as opções ***' encountered while parsing (tag "%" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 
+Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes mesa= E= A= CADEIRA= SIGNIFICAM=). 
+Invalid character (,) encountered while parsing (tag "O" with attributes cenário= FUNCIONA= COMO= DIVISOR= DAS= AçõES:= TRABALHO= X= HOBBY.= AO= SER= VISUALIZADO= PELO= LADO= ONDE= SE= ENCONTRA= A= FIGURA= HUMANA= E= OLHANDO= DE= CIMA= VEMOS= FORMA= DA= LETRA=). 
+Invalid character (,) encountered while parsing (tag "O" with attributes cenário= FUNCIONA= COMO= DIVISOR= DAS= AçõES:= TRABALHO= X= HOBBY.= AO= SER= VISUALIZADO= PELO= LADO= ONDE= SE= ENCONTRA= A= FIGURA= HUMANA= E= OLHANDO= DE= CIMA= VEMOS= FORMA= DA= LETRA=). 
+Invalid character (,) encountered while parsing (tag "O" with attributes cenário= FUNCIONA= COMO= DIVISOR= DAS= AçõES:= TRABALHO= X= HOBBY.= AO= SER= VISUALIZADO= PELO= LADO= ONDE= SE= ENCONTRA= A= FIGURA= HUMANA= E= OLHANDO= DE= CIMA= VEMOS= FORMA= DA= LETRA=). 
+Invalid character (,) encountered while parsing (tag "O" with attributes cenário= FUNCIONA= COMO= DIVISOR= DAS= AçõES:= TRABALHO= X= HOBBY.= AO= SER= VISUALIZADO= PELO= LADO= ONDE= SE= ENCONTRA= A= FIGURA= HUMANA= E= OLHANDO= DE= CIMA= VEMOS= FORMA= DA= LETRA=). 
+Invalid character (,) encountered while parsing (tag "O" with attributes cenário= FUNCIONA= COMO= DIVISOR= DAS= AçõES:= TRABALHO= X= HOBBY.= AO= SER= VISUALIZADO= PELO= LADO= ONDE= SE= ENCONTRA= A= FIGURA= HUMANA= E= OLHANDO= DE= CIMA= VEMOS= FORMA= DA= LETRA=). 
+Invalid character (,) encountered while parsing (tag "O" with attributes cenário= FUNCIONA= COMO= DIVISOR= DAS= AçõES:= TRABALHO= X= HOBBY.= AO= SER= VISUALIZADO= PELO= LADO= ONDE= SE= ENCONTRA= A= FIGURA= HUMANA= E= OLHANDO= DE= CIMA= VEMOS= FORMA= DA= LETRA=). 
+Invalid character (,) encountered while parsing (tag "O" with attributes cenário= FUNCIONA= COMO= DIVISOR= DAS= AçõES:= TRABALHO= X= HOBBY.= AO= SER= VISUALIZADO= PELO= LADO= ONDE= SE= ENCONTRA= A= FIGURA= HUMANA= E= OLHANDO= DE= CIMA= VEMOS= FORMA= DA= LETRA=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid character (,) encountered while parsing (tag "A" with attributes O= DINHEIRO= é=). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT * FROM TBL_patrimonio_emprestimos where cd_patrimonio = '). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+End of file encountered while parsing (tag "TR" with attributes onmouseover=>). 
+End of file encountered while parsing (tag "TR" with attributes onmouseover=>). 
+End of file encountered while parsing (tag "TR" with attributes onmouseover=>). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_AGORA" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CONTEUDO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CONTEUDO" with attributes). 
+Invalid character (%) encountered while parsing (tag "%'IF" with attributes cd_usuario=46 then=). 
+Invalid character (%) encountered while parsing (tag "%'IF" with attributes cd_usuario=46 then= IF=). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid quoted string 'dia_i' encountered while parsing (tag "%" with attributes dia_i=request(). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid quoted string '***** Esconde a linha do item emprestado ***' encountered while parsing (tag "%'******************************************" with attributes). 
+Invalid quoted string '***** Esconde a linha do item emprestado ***' encountered while parsing (tag "%'******************************************" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_ATUAL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%DATA_ATUAL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%AVISO" with attributes). 

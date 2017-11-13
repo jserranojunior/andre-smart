@@ -1,0 +1,22 @@
+#tit_calend 	{text-align:center;
+				color:white;
+				background-color:black;
+				width:177px;
+				padding:4px;
+				margin:1px;
+				font-size:10;}
+#dias_s_calend 	{text-align:center;
+				color:white;
+				background-color:gray;
+				width:20px;
+				padding:4px;
+				margin:1px;
+				border:2px solid gray;
+				font-size:9;}
+#esp_d_calend 	{background-color:#dfdfdf;
+				width:20px;
+				padding:4px;				
+				margin:1px;
+				border:1px solid #dfdfdf;
+				font-size:8;
+				}

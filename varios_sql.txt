@@ -1,0 +1,31 @@
+---COLUNAS----
+
+SELECT   * FROM  INFORMATION_SCHEMA.COLUMNS WHERE     
+
+ TABLE_NAME LIKE '%%' and
+
+ COLUMN_NAME LIKE '%NOME%'
+
+ORDER BY   ORDINAL_POSITION ASC; 
+
+--TABELAS---
+
+SELECT   * FROM  INFORMATION_SCHEMA.TABLES 
+
+
+-- find procedures from project --
+select * from sys.all_objects where 
+name like '%LOGIN%' and type = 'P' order by modify_date desc, name
+
+
+-- find '%part of text%' inside procedures from a project --
+select distinct 
+ o.name 
+from 
+ syscomments c 
+
+inner join sysobjects o on
+ c.id = o.id
+where 
+ UPPER(c.text) like '%hAMILTON%'
+and o.name like '%_met_%'

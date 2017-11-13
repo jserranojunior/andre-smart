@@ -1,0 +1,45 @@
+
+
+.textoPadrao
+{
+	font-size: 10px;
+	font-family: verdana, Arial, Helvetica, sans-serif;
+}
+
+
+.textoPadraob
+{
+	font-weight: bold;
+	font-size: 10px;
+	color: #ffffff;
+	font-family: verdana, Arial, Helvetica, sans-serif;
+}
+
+
+A
+{
+	color: #000000;
+	text-decoration: none;
+}
+A:hover
+{
+	color: #000000;
+	text-decoration: underline;
+}
+A:link
+{
+	color: #000000;
+	text-decoration: none;
+}
+input { 
+
+font: 12px verdana, arial, helvetica, sans-serif;
+color:#000000;
+border:1px solid #AEAEAF;
+}
+
+select { 
+font:12px verdana, arial, helvetica, sans-serif;
+color:#000000;
+border:1px solid #AEAEAF;
+}

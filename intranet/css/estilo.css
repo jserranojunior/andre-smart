@@ -1,0 +1,126 @@
+
+
+.textoPadrao
+{
+	font-size: 10px;
+	font-family: verdana, Arial, Helvetica, sans-serif;
+}
+
+.textoPadraobold
+{
+	font-weight: bold;
+	font-size: 11px;
+	font-family: verdana, Arial, Helvetica, sans-serif;
+}
+
+.textoPadraob
+{
+	font-weight: bold;
+	font-size: 10px;
+	color: #ffffff;
+	font-family: verdana, Arial, Helvetica, sans-serif;
+}
+
+.textoGrande
+{
+	
+	font-size: 12px;
+	font-family: verdana, Arial, Helvetica, sans-serif;
+}
+.textopequeno
+{
+	font-size: 9px;
+	font-family: verdana, Arial, Helvetica, sans-serif;
+}
+
+A
+{
+	color: #000000;
+	text-decoration: none;
+}
+A:hover
+{
+	color: Red;
+	text-decoration: underline;
+}
+A:link
+{
+	color: #000000;
+	text-decoration: none;
+}
+select, textarea, input{
+	font: 12px verdana, arial, helvetica, sans-serif;
+	border: 1px solid #cdcdcd;
+	margin: 0px;
+	background : transparent;
+}
+select:focus, select:hover, textarea:focus, textarea:hover, input:hover, input:focus{
+	background: #eee;
+}
+er:1px solid #AEAEAF;
+}
+.print
+
+
+
+/* Início do cód. para menu Drop Down*/
+ul {
+    font-size: 10px;
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 150px;
+	}
+	
+ul li {
+	position: relative;
+	}
+
+li ul {
+	position: absolute;
+	left: 149px;
+	top: 0;
+	display: none;
+}
+	
+ul li a {
+	display: block;
+	text-decoration: none;
+	color: #000000;
+	/*background: #fff;
+	*/
+	background: #E7E7E7;
+	padding: 5px;
+	border: 1px solid #ccc;
+	border-bottom: 0;
+}
+	
+/* Fix IE. Hide from IE Mac \*/
+* html ul li { float: left; }
+* html ul li a { height: 1%; }
+/* End */
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 150px;
+	border-bottom: 1px solid #ccc;
+	}
+	
+li:hover ul { display: block; }
+
+/* Fix IE. Hide from IE Mac \*/
+* html ul li { float: left; height: 1%; }
+* html ul li a { height: 1%; }
+/* End */
+
+li:hover ul ul, li.over ul ul { 
+display:none; 
+}
+
+li:hover ul, li li:hover ul, li.over ul, 
+li li.over ul { 
+display: block; 
+} /* Aqui a magica */

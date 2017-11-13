@@ -1,0 +1,40 @@
+<!--Enter funcionando como Tab - Javascript --> 
+ 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+nextfield = "campo1"; // nome do primeiro campo do site
+netscape = "";
+ver = navigator.appVersion; len = ver.length;
+for(iln = 0; iln < len; iln++) if (ver.charAt(iln) == "(") break;
+	netscape = (ver.charAt(iln+1).toUpperCase() != "C");
+	
+	function keyDown(DnEvents) {
+		// ve quando e o netscape ou IE
+		k = (netscape) ? DnEvents.which : window.event.keyCode;
+		if (k == 13) { // preciona tecla enter
+		if (nextfield == 'done') {
+			alert("viu como funciona?");
+			return false;
+			//return true; // envia quando termina os campos
+		} else {
+			// se existem mais campos vai para o proximo
+			eval('document.form1.' + nextfield + '.focus()');
+			return false;
+		}
+	}
+}
+
+document.onkeydown = keyDown; // work together to analyze keystrokes
+if (netscape) document.captureEvents(Event.KEYDOWN|Event.KEYUP);
+// End -->
+</script>
+<!-- Exemplo de uso
+<form action="enter_como_tab.asp" method="post" name="form1" onSubmit="return checa(this);"> 
+Campo 1:<input type="text" name="campo1" size="45" onFocus="nextfield ='campo2';"><br>
+Campo 2:<input type="text" name="campo2" size="45" onFocus="nextfield ='campo3';"><br>
+Campo 3:<input type="text" name="campo3" size="45" onFocus="nextfield ='campo4';"><br>
+Campo 4:<input type="text" name="campo4" size="45" onFocus="nextfield ='done';"><br>
+<input type="submit" name="envia" value="Enviar"> </form> 
+-->
+ 
+ 

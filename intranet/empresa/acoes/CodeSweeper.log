@@ -1,0 +1,25 @@
+Invalid quoted string '**********************************************************************' encountered while parsing (tag "%" with attributes). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 
+Invalid quoted string 'cd_pat_codigo' encountered while parsing (tag "%" with attributes cd_pat_codigo=request(). 
+Invalid character (;) encountered while parsing (tag "DIV" with attributes style=border:3px solid green; background-color:#dbfdd7; width:200;position:relative;  style=). 
+Invalid character (&) encountered while parsing (tag "%" with attributes selecao= top 100 percent *  tabela= TBL_equipamento condicoes=where cd_codigo='). 
+End of file encountered while parsing (tag "%" with attributes selecao= top 100 percent *  tabela= TBL_equipamento condicoes=where cd_codigo='>). 
+Invalid character (&) encountered while parsing (tag "%" with attributes selecao= top 100 percent *  tabela= TBL_marca condicoes=where cd_codigo = ). 
+End of file encountered while parsing (tag "%" with attributes selecao='tabela = " TBL_Espec" tabela= TBL_Especialidades condicoes=>). 
+End of file encountered while parsing (tag "%" with attributes selecao='tabela = " TBL_Espec" tabela= TBL_Especialidades condicoes= where>). 
+End of file encountered while parsing (tag "%" with attributes selecao='tabela = " TBL_Espec" tabela= TBL_Especialidades condicoes= where cd_codigo>). 
+End of file encountered while parsing (tag "%" with attributes selecao='tabela = " TBL_Espec" tabela= TBL_Especialidades condicoes= where cd_codigo =>). 
+Invalid character (&) encountered while parsing (tag "%" with attributes selecao='tabela = " TBL_Espec" tabela= TBL_Especialidades condicoes= where cd_codigo = ). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid character (*) encountered while parsing (tag "%'***" with attributes Abre= A= JANELA= DE=). 
+Invalid character (+) encountered while parsing (tag "%RS_MANUTENCAO.MOVENEXT" with attributes num=num). 
+Invalid equal sign (=) encountered while parsing (tag "%NUM" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%NUM" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%NUM" with attributes). 
+Invalid character (+) encountered while parsing (tag "%RS_MANUTENCAO.MOVENEXT" with attributes num=num). 
+Invalid equal sign (=) encountered while parsing (tag "%STYLEINPUT" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STYLEINPUT" with attributes). 

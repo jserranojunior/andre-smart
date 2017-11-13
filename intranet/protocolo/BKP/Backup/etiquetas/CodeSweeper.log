@@ -1,0 +1,65 @@
+Invalid character (&) encountered while parsing (tag "%IF" with attributes cd_unidade= Then= STRSQL=Select * from TBL_protocolo_etiquetas Where cd_codigo='). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid character (&) encountered while parsing (tag "%IF" with attributes cd_unidade= Then= STRSQL=Select * from TBL_protocolo_etiquetas Where cd_unidade='). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid character (&) encountered while parsing (tag "%IF" with attributes cd_unidade= Then= STRSQL=Select * from TBL_protocolo_etiquetas Where cd_unidade='). 
+Invalid character (&) encountered while parsing (tag "%IF" with attributes cd_unidade= Then= STRSQL=Select * from TBL_protocolo_etiquetas Where cd_unidade='). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid quoted string 'cd_codigo' encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= CD_CODIGO=rs_etiq(). 
+Invalid equal sign (=) encountered while parsing (tag "%COR_NUM" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%COR_NUM" with attributes). 
+Invalid character (&) encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= STRSQL=Select * from TBL_unidades Where cd_codigo='). 
+Invalid character (&) encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= STRSQL=Select * from TBL_unidades Where cd_codigo='). 
+Invalid character (&) encountered while parsing (tag "%WHILE" with attributes not= RS_ETIQ.EOF= STRSQL=Select * from TBL_unidades Where cd_codigo='). 
+Invalid quoted string 'Fim do resultado da pesquisa' encountered while parsing (tag "%'END" with attributes). 
+Invalid quoted string 'Fim do resultado da pesquisa' encountered while parsing (tag "%'END" with attributes). 
+Invalid quoted string 'Fim do resultado da pesquisa' encountered while parsing (tag "%'END" with attributes). 
+Invalid quoted string 'Fim do resultado da pesquisa' encountered while parsing (tag "%'END" with attributes). 
+Invalid quoted string 'Fim do resultado da pesquisa' encountered while parsing (tag "%'END" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%'XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%'XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%'XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%'XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%'XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%'XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%MODO_DIAG" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%MODO_DIAG" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid quoted string '>' encountered while parsing (tag "%'MENSAL" with attributes por= ESPECIALIDADE= STRSQL_ESTAT=SELECT COUNT (a002_numpro) AS conta, dt_ano, dt_mes,a053_codung, nm_sigla,a057_codesp,nm_sigla, nm_especialidade FROM VIEW_protocolo_lista Where A002_datpro BETWEEN '1/1/2009' AND '1/31/2009' AND a053_codung = 2 AND a057_codesp = '1' Group by dt_ano, dt_mes,a053_codung, nm_sigla, a057_codesp,nm_sigla, nm_especialidade	ORDER BY dt_ano, dt_mes  ASC Set= RS_ESTAT=dbconn.execute(strsql_estat) While= NOT= RS_ESTAT.EOF=). 
+Invalid quoted string '>' encountered while parsing (tag "%'MENSAL" with attributes por= ESPECIALIDADE= STRSQL_ESTAT=SELECT COUNT (a002_numpro) AS conta, dt_ano, dt_mes,a053_codung, nm_sigla,a057_codesp,nm_sigla, nm_especialidade FROM VIEW_protocolo_lista Where A002_datpro BETWEEN '1/1/2009' AND '1/31/2009' AND a053_codung = 2 AND a057_codesp = '1' Group by dt_ano, dt_mes,a053_codung, nm_sigla, a057_codesp,nm_sigla, nm_especialidade	ORDER BY dt_ano, dt_mes  ASC Set= RS_ESTAT=dbconn.execute(strsql_estat) While= NOT= RS_ESTAT.EOF= CONTA=rs_estat(). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_UNIDADE" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_UNIDADE" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_UNIDADE" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_UNIDADE" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_UNIDADE" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_UNIDADE" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_UNIDADE" with attributes). 

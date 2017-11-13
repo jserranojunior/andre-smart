@@ -1,0 +1,66 @@
+Invalid quoted string '***     Define a quantidade de linhas por página     ***' encountered while parsing (tag "%'******************************************************" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%LINHA_1_EMPRESTIMO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%LINHA_1_EMPRESTIMO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%LINHA_1_EMPRESTIMO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%LINHA_1_EMPRESTIMO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%PAG_EMPRESTIMO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%PAG_EMPRESTIMO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%LINHA_1_EMPRESTIMO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%LINHA_1_EMPRESTIMO" with attributes). 
+Invalid quoted string '***     Define a quantidade de linhas por página     ***' encountered while parsing (tag "%'******************************************************" with attributes). 
+Invalid quoted string '***     Define a quantidade de linhas por página     ***' encountered while parsing (tag "%'******************************************************" with attributes). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT TOP 5 * FROM View_funcionario_horario WHERE cd_funcionario='). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT TOP 5 * FROM View_funcionario_horario WHERE cd_funcionario='). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%'XSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid character (+) encountered while parsing (tag "%" with attributes numero=1 protocolo=protocolo). 
+Invalid character (+) encountered while parsing (tag "%" with attributes numero=1 protocolo=protocolo). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+Invalid character (+) encountered while parsing (tag "%" with attributes numero=1 protocolo=protocolo). 
+Invalid character (+) encountered while parsing (tag "%" with attributes numero=1 protocolo=protocolo). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+End of file encountered while parsing (tag "TD" with attributes style=>). 
+Invalid character (+) encountered while parsing (tag "%" with attributes numero=1 protocolo=protocolo). 
+Invalid character (+) encountered while parsing (tag "%" with attributes numero=1 protocolo=protocolo). 
+Invalid character (+) encountered while parsing (tag "%" with attributes numero=1 protocolo=protocolo). 
+Invalid character (+) encountered while parsing (tag "%" with attributes numero=1 protocolo=protocolo). 
+Invalid character (+) encountered while parsing (tag "%" with attributes numero=1 protocolo=protocolo). 
+Invalid character (+) encountered while parsing (tag "%" with attributes numero=1 protocolo=protocolo). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_UNIDADE" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_UNIDADE" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%CD_FUNCIONARIO" with attributes). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT TOP 5 * FROM View_funcionario_unidade WHERE cd_funcionario='). 
+Invalid character (&) encountered while parsing (tag "%" with attributes strsql=SELECT TOP 5 * FROM View_funcionario_unidade WHERE cd_funcionario='). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid equal sign (=) encountered while parsing (tag "%STRSQL" with attributes). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 
+Invalid quoted string 'cod' encountered while parsing (tag "%" with attributes strcod=request(). 

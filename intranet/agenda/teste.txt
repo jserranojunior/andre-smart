@@ -1,0 +1,93 @@
+=====  INFORMACAO SOBRE RESERVA  ===
+
+RESERVA       :  121819
+PACIENTE      :  RAUL ANTONIO ZONETTI
+CONVENIO      :  BRADESCO INDIVIDUAL
+SITUACAO      :  
+DATA RESERVA  :  15/09/10
+DATA INTERNAC.:  20/09/10
+DATA CIRURGIA :  20/09/10 - 20,30
+CIRURGIA      :  
+MEDICO        :  ANTONIO LUIZ V MACEDO
+MEDICO CREDENCIADO NO CONVENIO? Nao
+PATOLOGISTA   :  
+PROTESES      :  
+CENTRO        :  CIRURGICO
+
+
+Anestesia   : EQUIPE
+Utilizar UTI: NÃO
+Congelação  : 
+Banco Sangue: 
+Radiologia  : 
+
+
+CIRURGIAS : 
+AMB :43080111HERNIORRAFIA INCISIONAL
+
+MATERIAIS CONSIGNADOS / MEDICAMENTOS : 
+
+Material  : AGULHA SURGINIDLE 150 
+Fornecedor: tyco
+Quantidade: 1
+Material  : TROCATER 11mm BLADLESS 
+Fornecedor: jj
+Quantidade: 1
+Material  : TROCATER 5mm BLADLESS 
+Fornecedor: jj
+Quantidade: 2
+Material  : CANETA E REGUA CODMANN 
+Fornecedor: codmann
+Quantidade: 1
+Material  : ENDOSHEARS DESCARTAVEL
+Fornecedor: tyco
+Quantidade: 1
+Material  : tela de procid 30x30 
+Fornecedor: jj
+Quantidade: 1
+Material  : TELA MICROVAL 30 X 30 
+Fornecedor: tyco
+Quantidade: 1
+Material  : TELA PARIETENE LIGHT 15 X 15 e 30 X 30
+Fornecedor: tyco
+Quantidade: 1
+Material  : GRAMPEADOR ABSORVATACH
+Fornecedor: TYCO
+Quantidade: 1
+Material  : ENDOCLOSER
+Fornecedor: TYCO
+Quantidade: 1
+Material  : TELA prosidi
+Fornecedor: jj
+Quantidade: 1
+
+
+LISTA DE EQUIPAMENTOS : 
+
+Equip.:6308 Vd Lap - Camera Digital H.D. - 01
+Equip.:6236 Vd Lap - Otica 30 Graus 5mm - 01
+Equip.:6108 Vd Lap - Rack 1 (Geral)
+Equip.:6446 Vd Lap - Otica 30 Graus 10mm - 03
+
+
+OBSERVACOES DA RESERVA :  
+
+instr adriana substitui TELA COMPOSIT PARIETEX 15 X15  e 30 X 30 por TEL PROCID DA JJ ADRIANO DO MATS CIENTE MARGARETH
+
+ATENÇÃO: Prazo para análise de autorização:
+         Dias Úteis Liber. Senha: 0     Dias Úteis Liber. Materiais: 0         Data sugerida para internação:  
+
+************************************************** ATENÇÃO *********************************************************
+
+Solicitamos o envio de Laudo de Exames de Imagens e Relatório Médico detalhado sobre a indicação cirúrgica, contendo
+justificativa para OPME (Materiais consignados) para o fax 11 - 3040-1313.
+
+O início da negociação de autorização com os convênios depende do envio desta documentação.
+
+Para os convênios ABET, AMIL, CET, EMBRATEL, MEDIAL e VOLKSWAGEN, o paciente ou consultório devem solicitar 
+a autorização do procedimento.
+
+Telefone para contato:
+Central de Autorizações: 11 - 3040.1234
+
+********************************************************************************************************************

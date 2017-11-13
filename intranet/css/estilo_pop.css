@@ -1,0 +1,36 @@
+.div_conteudo {
+  position:absolute; 
+  width:502; 
+  height:120;
+  overflow:auto;
+  left:0;
+  top:0;
+}
+div {
+  scrollbar-face-color: #D4D0C8;
+  scrollbar-arrow-color: #000000;
+  scrollbar-track-color: #D4D0C8;
+}
+.texto {
+  font-family: verdana;
+  font-size: 10px;
+  color: #000000;
+  text-decoration: none;  
+}
+.texto:hover {
+  font-family: verdana;
+  font-size: 10px;
+  color: #000000;
+  text-decoration: underline;
+}
+.scrollbars {
+  direction:;
+  background-attachment:fixed;
+  scrollbar-arrow-color: 000000;
+  scrollbar-track-color: 000000;
+  scrollbar-face-color: D4D0C8;
+  scrollbar-highlight-color: D4D0C8;
+  scrollbar-3dlight-color: D4D0C8;
+  scrollbar-darkshadow-color: D4D0C8;
+  scrollbar-shadow-color: D4D0C8;
+}
