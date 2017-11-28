@@ -135,12 +135,12 @@ data_atual = dia_final&"/"&dt_mes&"/"&dt_ano%>
 			<!-- ---------------------------------------------------------------- -->				
 							<!--tr style="color:whites;" class="no_print">
 								<td align="left" colspan="32">&nbsp;
-									<%=qtd_dias_comp%> dias &nbsp; &nbsp; &nbsp; &nbsp; <%=qtd_domingos_comp%> dom.&nbsp; &nbsp; &nbsp; &nbsp; <%=qtd_feriados%> feriado<%if qtd_feriados > 1 then%>s<%end if%> no mês &nbsp; &nbsp; &nbsp; &nbsp; (<%=(qtd_dias_comp-qtd_domingos_comp)-qtd_feriados%>)
+									<%=qtd_dias_comp%> dias &nbsp; &nbsp; &nbsp; &nbsp; <%=qtd_domingos_comp%> dom.&nbsp; &nbsp; &nbsp; &nbsp; <%=qtd_feriados%> feriado<%if qtd_feriados > 1 then%>s<%end if%> no mï¿½s &nbsp; &nbsp; &nbsp; &nbsp; (<%=(qtd_dias_comp-qtd_domingos_comp)-qtd_feriados%>)
 									{<%=var_dia_semana%>}</td>
 							</tr-->
 							
 							<%'**************************
-							'*** VALOR SALÁRIO MÍNIMO ***
+							'*** VALOR SALï¿½RIO Mï¿½NIMO ***
 							xsql = "SELECT * FROM TBL_funcionario_valores_padroes WHERE (cd_tipo = 12) AND dt_atualizacao <= '"&dt_mes&"/"&dia_final&"/"&dt_ano&"' ORDER BY dt_atualizacao DESC"
 							Set rs = dbconn.execute(xsql)
 							nr_salminimo = rs("nr_valor")
@@ -162,7 +162,7 @@ data_atual = dia_final&"/"&dt_mes&"/"&dt_ano%>
 					print = "nok_print"
 					
 					pagina = 1
-					'*** configura o total de linhas por pág.***
+					'*** configura o total de linhas por pï¿½g.***
 						total_linhas_pag = 50
 					
 					'xsql = "up_funcionario_rh_lista_individual @cd_funcionario="&strcod&", @dt_atualizacao='"&dt_mes&"/"&dia_final&"/"&dt_ano&"', @dt_i = '"&dt_mes&"/1/"&dt_ano&"', @dt_f = '"&dt_mes&"/"&dia_final&"/"&dt_ano&"'"
@@ -199,18 +199,18 @@ data_atual = dia_final&"/"&dt_mes&"/"&dt_ano%>
 								'	dias_trab_admissao = datediff(m,dt_admissao,now)
 								end if
 									
-									'*** Caso a admissão for no mesmo mês de competencia da folha ***
+									'*** Caso a admissï¿½o for no mesmo mï¿½s de competencia da folha ***
 									if admissao = dt_ano&zero(dt_mes)  AND demissao = "" OR admissao = dt_ano&zero(dt_mes) AND demissao > dt_ano&zero(dt_mes) then
-										tempo_trabalhado = DateDiff("d",day(dt_admissao)&"/"&month(dt_admissao)&"/"&year(dt_admissao),dia_final&"/"&dt_mes&"/"&dt_ano)+1 '(1 = conta o dia da contratação)
+										tempo_trabalhado = DateDiff("d",day(dt_admissao)&"/"&month(dt_admissao)&"/"&year(dt_admissao),dia_final&"/"&dt_mes&"/"&dt_ano)+1 '(1 = conta o dia da contrataï¿½ï¿½o)
 									
-									'*** Caso a admissão e a demissão forem no mesmo mês de competencia da folha ***
+									'*** Caso a admissï¿½o e a demissï¿½o forem no mesmo mï¿½s de competencia da folha ***
 									elseif admissao = dt_ano&zero(dt_mes)  AND demissao = dt_ano&zero(dt_mes) then
-										tempo_trabalhado = DateDiff("d",day(dt_admissao)&"/"&month(dt_admissao)&"/"&year(dt_admissao),dia_final&"/"&dt_mes&"/"&dt_ano)+1 '(1 = conta o dia da contratação)
+										tempo_trabalhado = DateDiff("d",day(dt_admissao)&"/"&month(dt_admissao)&"/"&year(dt_admissao),dia_final&"/"&dt_mes&"/"&dt_ano)+1 '(1 = conta o dia da contrataï¿½ï¿½o)
 									
 									else
 										tempo_trabalhado = "30"
 									
-									'*** Caso a demissão for no mesmo mês de competencia da folha ***
+									'*** Caso a demissï¿½o for no mesmo mï¿½s de competencia da folha ***
 									'elseif  admissao < dt_ano&zero(dt_mes)  AND demissao = dt_ano&zero(dt_mes) then 'OR admissao < dt_ano&zero(dt_mes) AND demissao > dt_ano&zero(dt_mes) then
 									'elseif  admissao < dt_ano&zero(dt_mes)  AND month(dt_demissao)&"/"&day(dt_demissao)&"/"&year(dt_demissao) <= zero(dt_mes)&"/25/"&dt_ano then 'OR admissao < dt_ano&zero(dt_mes) AND demissao > dt_ano&zero(dt_mes) then
 									'	tempo_trabalhado = DateDiff("d","1/"&mes_pagamento&"/"&ano_pagamento,day(dt_demissao)&"/"&month(dt_demissao)&"/"&year(dt_demissao))
@@ -219,7 +219,7 @@ data_atual = dia_final&"/"&dt_mes&"/"&dt_ano%>
 									'	tempo_trabalhado = "0"
 									end if
 								
-								'*** carrega as informações dos plantões ***
+								'*** carrega as informaï¿½ï¿½es dos plantï¿½es ***
 								strsql = "SELECT * FROM TBL_funcionario_plantoes WHERE dt_atualizacao='"&dt_mes&"/1/"&dt_ano&"'"
 								Set rs_plantoes = dbconn.execute(strsql)
 									if not rs_plantoes.EOF then
@@ -279,7 +279,7 @@ data_atual = dia_final&"/"&dt_mes&"/"&dt_ano%>
 							
 
 								
-								'*** Carrega as variáveis do RCM ***
+								'*** Carrega as variï¿½veis do RCM ***
 								'xsql = "up_Funcionario_rcm_lista @cd_funcionario='"&strcod&"', @dt_i='"&mes_competencia&"/1/"&ano_competencia&"', @dt_f='"&mes_competencia&"/"&final_competencia&"/"&ano_competencia&"'"
 								
 								xsql = "up_Funcionario_rcm_lista @cd_funcionario='"&strcod&"', @dt_i='"&mes_ant&"/21/"&ano_ant&"', @dt_f='"&mes_competencia&"/20/"&ano_competencia&"'"
@@ -380,7 +380,7 @@ data_atual = dia_final&"/"&dt_mes&"/"&dt_ano%>
 							if cab_contab = 1 then%>
 							<tr class="<%=print%>">
 								<td align="center" colspan="2">&nbsp;</td>
-								<td align="center" colspan="4">Mês de competência: <b><%=ucase(mes_selecionado(mes_competencia))%>/<%=ano_competencia%></b></td>
+								<td align="center" colspan="4">Mes de competencia: <b><%=ucase(mes_selecionado(mes_competencia))%>/<%=ano_competencia%></b></td>
 								<td align="center"><img src="../../imagens/ic_print.gif" alt="imprimir" width="24" height="26" border="0" onclick="window.print();" class="no_print">
 								&nbsp;<!--img src="../../imagens/px.gif" alt="imprimir" width="24" height="26" border="0" onclick="visualizarImpressao();" class="ok_print"--></td></tr>
 							<tr bgcolor="#000000" class="<%=print%>">
@@ -415,14 +415,22 @@ data_atual = dia_final&"/"&dt_mes&"/"&dt_ano%>
 								<td style="color:<%=cor_registro%>;" align="left"><%=nm_nome%> <%'=tempo_trabalhado%></td>
 								<!--td style="color:<%=cor_registro%>;" align="center"><%=nm_sigla%></td-->
 								
-													
+									<!-- *** COLUCANDO BRUNO RAMOS COM 4 DE AD NOTURNO *** -->
+								
+									<% if dt_mes = 12 and dt_ano = 2017 and cd_matricula = "322" then
+									total_geral_ad_noturno = total_geral_ad_noturno - 9
+										total_func_ad_noturno = 4
+										end if
+								%>
+								
+
 						<!-- *** Qtd. Adicional Noturno *** -->
 								<td align="center">&nbsp;<%if total_func_ad_noturno > 0 then%><b><%=total_func_ad_noturno%></b><%else%>0<%end if%></td>
 						<!-- *** Qtd Hora Extra *** -->
 								<td align="center"><%if total_he > 0 then%><b><%=(total_he_limit)%></b><%else%>0<%end if%></td>
-						<!-- *** Faltas Não justificadas *** -->
+						<!-- *** Faltas NÃ£o justificadas *** -->
 								<td align="center"><%if total_falta_injust > 0 then%><b><%=(total_falta_injust)%></b><%else%>0<%end if%></td>
-						<!-- *** Faltas Não justificadas *** -->
+						<!-- *** Faltas Nï¿½o justificadas *** -->
 								<!--td align="center"><%if total_falta_justif > 0 then%><b><%=(total_falta_justif)%></b><%else%>0<%end if%></td-->
 						<!-- *** Atrasos *** -->
 								<td align="center"><%if total_atraso > 0 then%><b><%=(total_atraso)%></b><%else%>0<%end if%></td>
@@ -437,7 +445,7 @@ data_atual = dia_final&"/"&dt_mes&"/"&dt_ano%>
 								
 							if linha_conta = total_linhas_pag then%>
 								<tr class="ok_print"><td colspan="7">&nbsp;</td></tr>
-								<tr align="right" style="page-break-after:always;" class="ok_print"><td colspan="7">Página: <%=pagina%> &nbsp; </td></tr>
+								<tr align="right" style="page-break-after:always;" class="ok_print"><td colspan="7">Pagina: <%=pagina%> &nbsp; </td></tr>
 							<%pagina = pagina + 1
 							end if
 						end if
@@ -526,6 +534,6 @@ data_atual = dia_final&"/"&dt_mes&"/"&dt_ano%>
 								
 							</tr>
 							<tr class="ok_print"><td colspan="7">&nbsp;</td></tr>
-							<tr class="ok_print"><td align="right" colspan="7">impr.:<%=now%><img src="../../imagens/px.gif" alt="" width="100" height="1" border="0"> Página: <%=pagina%> &nbsp; </td></tr>
+							<tr class="ok_print"><td align="right" colspan="7">impr.:<%=now%><img src="../../imagens/px.gif" alt="" width="100" height="1" border="0"> Pagina: <%=pagina%> &nbsp; </td></tr>
 						</table>
 			
