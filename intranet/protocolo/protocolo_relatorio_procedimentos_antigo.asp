@@ -1,5 +1,3 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-
 <SCRIPT LANGUAGE="javascript">
 function Jsconfirm_print()
 {
@@ -78,7 +76,7 @@ mostra_emprestimos = request("mostra_emprestimos")%>
 				</select></td>
 	</tr>
 	<tr bgcolor="#dadada">
-		<td>&nbsp;Dia/Mes/Ano</td>
+		<td>&nbsp;Dia/M�s/Ano</td>
 		<td>
 		<input type="text" name="ultimodia" size="2" maxlength="2" style="background-color:#ffffff" value="<%=ultimodia%>">
 		<input type="text" name="dt_mes" size="2" maxlength="2" style="background-color:#ffffff" value="<%=dt_mes%>">
@@ -190,8 +188,6 @@ mostra_emprestimos = request("mostra_emprestimos")%>
 	num_pag = 1
 	
 	for i = 1 to procedimentos
-
-	
 	
 		if not rs.EOF then
 				dt_data = zero(day(rs("a002_datpro")))&"/"&zero(month(rs("a002_datpro")))&"/"&right(year(rs("a002_datpro")),2)
@@ -233,8 +229,8 @@ mostra_emprestimos = request("mostra_emprestimos")%>
 	'***  Caso a contagem seja reiniciada, mostra o cabe�alho  ***
 	'*************************************************************%>
 		<tr>
-			<td colspan="3" align="left">&nbsp;<img src="../imagens/cmi2p.gif" alt="" width="75" height="43" border="0"></td>
-			<td colspan="2" align="center"><b>CMI CIRURGICA LTDA</b></td>
+			<td colspan="3" align="left">&nbsp;<img src="../imagens/Vdlap2p.gif" alt="" width="75" height="43" border="0"></td>
+			<td colspan="2" align="center"><b>CMI LTDA</b></td>
 		</tr>
 		<tr>		
 			<td><img src="../imagens/px.gif" alt="" width="20" height="1" border="0"></td>
@@ -249,10 +245,10 @@ mostra_emprestimos = request("mostra_emprestimos")%>
 		<tr><td colspan="100%"><img src="../imagens/blackdot.gif" alt="" width="100%" height="1" border="0"></td></tr>
 		<tr style="font-size:11px;">
 			<td style="border:1px; solid red;" colspan="100%" align="center" >
-				<b>RELATORIO DE PROCEDIMENTOS MEDICOS</b> <br>
+				<b>RELATORIO DE PROCEDIMENTOS MÉDICOS</b> <br>
 				<b><%=nm_unidade%></b><br>
 				<b><%=mes_selecionado(int(dt_mes))%>/<%=ano_sel%></b>
-do dia 1 ate o dia <%=ultimodia%>
+do dia 1 at� o dia <%=ultimodia%>
 				<%'=procedimentos%> <%'=emprestimos%></td>
 		
 		</tr>
@@ -262,20 +258,19 @@ do dia 1 ate o dia <%=ultimodia%>
 		
 		
 		 if cd_unidade = 14 and a056_desrac = "RACK 01" or  cd_unidade = 14 and a056_desrac = "RACK 02" or  cd_unidade = 14 and a056_desrac = "RACK 03" or  cd_unidade = 14 and a056_desrac = "RACK 04" or  cd_unidade = 14 then
-		a056_desrac = "Rack da CMI"
+		a056_desrac = "Rack da Vd Lap"
 		end if	
 		
 		if a056_desrac = "Novadaq" then
 			a056_desrac = "Novadaq"	
         end if			
 				
-		rack_name = "Rack da CMI"
-
+		
 		if cd_unidade = 20 or cd_unidade = 14 then
 		reg_num = reg_num + 1
 		conta_linhas = conta_linhas + 1
 		numero = 1%>
-			<tr><td align="center" colspan="7">Procedimentos Medicos Realizados com  <%=a056_desrac%> <%'=rack_num%></td></tr>
+			<tr><td align="center" colspan="7">Procedimentos Médicos Realizados com <%=a056_desrac%> <%'=rack_num%></td></tr>
 			<tr><td colspan="100%"><img src="../imagens/blackdot.gif" alt="" width="100%" height="1" border="0"></td></tr>
 	<%'************************************************************
 		end if%>
@@ -285,14 +280,14 @@ do dia 1 ate o dia <%=ultimodia%>
 			<td align="left"><b>Paciente</b></td>
 			<td align="right"><b>Reg</b>&nbsp;</td>
 			<td align="left">&nbsp;<b>Cirurgia</b></td>			
-			<td align="left" colspan="2"><b>Convenio</b></td>
-			<td align="left"><b>Equipe Medica</b></td>		
+			<td align="left" colspan="2"><b>Conv�nio</b></td>
+			<td align="left"><b>Equipe M�dica</b></td>		
 		</tr>
 		<tr><td colspan="100%"><img src="../imagens/blackdot.gif" alt="" width="100%" height="1" border="0"></td></tr>	
 	<%end if%>
 		<!-- mostrava o titulo das colunas -->		
 		
-			<%'Colore as linhas do RELATÓRIO
+			<%'Colore as linhas do RELATORIO
 				if numero = 1 then
 					corlinha = "#dadada"
 				else
@@ -301,7 +296,7 @@ do dia 1 ate o dia <%=ultimodia%>
 			'*******************************%>
 		
 		<%'***********************************************************
-		'***            CORPO DO RELATÓRIO - PROCEDIMENTOS         ***
+		'***            CORPO DO RELATORIO - PROCEDIMENTOS         ***
 		'*************************************************************%>
 		<tr bgcolor="<%=corlinha%>" onmouseover="mOvr(this,'#ffff99');"  onclick="javascript:;" onmouseout="mOut(this,'<%=corlinha%>');" style="font-size:8px; height:20px;" valign="middle">
 			<%reg_num = reg_num + 1
@@ -439,8 +434,8 @@ do dia 1 ate o dia <%=ultimodia%>
 			<tr id="print_ok"><td colspan="8"><img src="../imagens/blackdot.gif" alt="" width="100%" height="1" border="0"></td></tr>
 			<tr style="font-size:10px;" >
 				<td colspan="2">&nbsp;</td>
-				<td colspan="5" style="page-break-after:always;" align="center">Data de emissao: <b><%=zero(day(now))&"/"&mesdoano(month(now))&"/"&right(year(now),2)&" "&hour(now)&":"&minute(now)%></b></td>
-				<td align="right">&nbsp;Pag.:<%=num_pag%>&nbsp;&nbsp;&nbsp;</td>
+				<td colspan="5" style="page-break-after:always;" align="center">Data de emiss�o: <b><%=zero(day(now))&"/"&mesdoano(month(now))&"/"&right(year(now),2)&" "&hour(now)&":"&minute(now)%></b></td>
+				<td align="right">&nbsp;P�g.:<%=num_pag%>&nbsp;&nbsp;&nbsp;</td>
 			</tr>
 			<%reg_num = 0	'Reinicia a contagem de registros por p�gina.
 			mostra_cabecalho = 0
@@ -515,14 +510,14 @@ do dia 1 ate o dia <%=ultimodia%>
 			
 			<%'************************************************************
 			'***--------------------------------------------------------***
-			'*** INICIO DO RELATÓRIO DE CIRURGIAS E PROCEDIMENTOS - CO	***
+			'*** INICIO DO RELATORIO DE CIRURGIAS E PROCEDIMENTOS - CO	***
 			'***--------------------------------------------------------***
 			'**************************************************************%>
 				
 	<%if mostra_cabecalho = 0 then%>
 		<tr>
-			<td colspan="3" align="left">&nbsp;<img src="../imagens/cmi2p.gif" alt="" width="75" height="43" border="0"></td>
-			<td colspan="2" align="center"><b>CMI CIRURGICA LTDA</b></td>
+			<td colspan="3" align="left">&nbsp;<img src="../imagens/Vdlap2p.gif" alt="" width="75" height="43" border="0"></td>
+			<td colspan="2" align="center"><b>CMI LTDA</b></td>
 		</tr>
 		<tr>		
 			<td><img src="../imagens/px.gif" alt="" width="20" height="1" border="0"></td>
@@ -553,12 +548,12 @@ do dia 1 ate o dia <%=ultimodia%>
 			<td align="left"><b>Paciente</b></td>
 			<td align="right"><b>Reg</b>&nbsp;</td>
 			<td align="left">&nbsp;<b>Cirurgia</b></td>			
-			<td align="left" colspan="2"><b>Convenio</b></td>
-			<td align="left"><b>Equipe Medica</b></td>		
+			<td align="left" colspan="2"><b>Conv�nio</b></td>
+			<td align="left"><b>Equipe M�dica</b></td>		
 		</tr>
 		<tr><td colspan="100%"><img src="../imagens/blackdot.gif" alt="" width="100%" height="1" border="0"></td></tr>
 	<%end if%>
-					<%'Colore as linhas do RELATÓRIO
+					<%'Colore as linhas do RELATORIO
 				if numero = 1 then
 					corlinha = "#ffffff"
 				else
@@ -567,7 +562,7 @@ do dia 1 ate o dia <%=ultimodia%>
 			'*******************************%>
 		
 		<%'********************************************
-		'*** CORPO DO RELATÓRIO - CENTRO OBSTETRICO ***
+		'*** CORPO DO RELATORIO - CENTRO OBSTETRICO ***
 		'**********************************************%>
 		<tr bgcolor="<%=corlinha%>" onmouseover="mOvr(this,'#ffff99');"  onclick="javascript:;" onmouseout="mOut(this,'<%=corlinha%>');" style="font-size:8px; height:20px;" valign="middle">
 			<%reg_num = reg_num + 1
@@ -713,8 +708,8 @@ do dia 1 ate o dia <%=ultimodia%>
 			'*** Mostra o cabe�alho ***
 			'**************************%>
 			<tr>
-				<td colspan="3" align="left">&nbsp;<img src="../imagens/cmi2p.gif" alt="" width="75" height="43" border="0"></td>
-				<td colspan="2" align="center"><b>CMI CIRURGICA LTDA</b></td>
+				<td colspan="3" align="left">&nbsp;<img src="../imagens/Vdlap2p.gif" alt="" width="75" height="43" border="0"></td>
+				<td colspan="2" align="center"><b>Vd Lap Cirúrgica LTDA</b></td>
 			</tr>
 			<tr>		
 			<td><img src="../imagens/px.gif" alt="" width="20" height="1" border="0"></td>
@@ -729,7 +724,7 @@ do dia 1 ate o dia <%=ultimodia%>
 			<tr><td colspan="100%"><img src="../imagens/blackdot.gif" alt="" width="100%" height="1" border="0"></td></tr>
 			<tr style="font-size:11px;">
 				<td style="border:1px; solid red;" colspan="100%" align="center" >
-					<b>RELATORIO DE EMPRESTIMO DE MATERIAIS</b> <br>
+					<b>RELATORIO DE EMPR�STIMO DE MATERIAIS</b> <br>
 					<b><%=nm_unidade%></b><br>
 					<b><%=mes_selecionado(int(dt_mes))%>/<%=ano_sel%></b></td>
 			</tr>
@@ -752,7 +747,7 @@ do dia 1 ate o dia <%=ultimodia%>
 			end if%>		
 			
 			<%'***************************************
-			'*** Corpo do RELATÓRIO de emprestimos ***
+			'*** Corpo do RELATORIO de emprestimos ***
 			'*****************************************
 			if mostra_registro = 0 then
 			conta_linhas = conta_linhas + 1%>
@@ -795,7 +790,7 @@ do dia 1 ate o dia <%=ultimodia%>
 						wend%></td>									
 				</tr>						
 			<%end if
-			'*** Fim do corpo de RELATÓRIO de emprestimos
+			'*** Fim do corpo de RELATORIO de emprestimos
 			
 			reg_num_e = reg_num_e + 1
 			parcial_emprestimos = parcial_emprestimos + qtd_material
@@ -891,7 +886,7 @@ end if%>
 
 		
 <!--*******************************************************************************************************************************************************
-****************  E. 0  Fim do RELATÓRIO  - �ltimo rodap�   ************************************************************************************************
+****************  E. 0  Fim do RELATORIO  - �ltimo rodap�   ************************************************************************************************
 *********************************************************************************************************************************************************-->
 
 	<%if nao_mostra_ultimo_rodape = "" Then%>
@@ -907,7 +902,7 @@ end if%>
 		</tr>
 	<%end if%>
 <%'**************************************************************************************************
-'*************************** FIM DO  RELATÓRIO DE PROCEDIMENTOS *************************************
+'*************************** FIM DO  RELATORIO DE PROCEDIMENTOS *************************************
 '****************************************************************************************************%>
 
 </table>
