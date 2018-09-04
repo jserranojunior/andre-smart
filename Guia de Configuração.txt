@@ -1,9 +1,21 @@
+﻿BANCO DE DADOS
+
+Instalar a versão sql server2014 EM INGLES
+
+
+
+
  Ativar e Desativar Recursos do Windows
     Serviçis de informação da internet>Serviços www> Recursos de Desenvolvimento
     Habilitar ASP E ISS
  
+NÂO ESQUECER DE HABILITAR O ISS
+
+
  ###### CONFIGURAÇÂO DO IIS
 
+- Adicionar SITE
+	Nome: Smart
 - ASP
     Propridade de depuração> Enviar erros ao navegador: TRUE
     CAMINHOS PAI: TRUE
