@@ -70,7 +70,7 @@ a.no_print{
 
 }
 </style>
-<span class="right no_print"><a class="no_print" href="http://192.168.0.100/vdlap/">Teste a nova versão</a></span>
+<span class="right no_print"><a class="no_print" href="http://vdlap.com.br/novosistema">Teste a nova versão</a></span>
 <body bgcolor="#FFFFFF"  leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" onLoad="foco_protocolo();">
 	<span style="border:0px solid red; position:absolute; width:5px; height:98%; left:0px; top:0px; margin:0px; padding:0px; background-color:gray;"" class="no_print">&nbsp;<img src="imagens/ic_print.gif" alt="imprimir" width="16" height="16" border="0" onclick="visualizarImpressao();" style="position:absolute; left:800px; top:0;" class="no_print"></span>
 	<span style="border:0px solid blue; position:absolute; width:189px; left:20px; top:0px; margin:0px; padding:0px;" class="no_print">&nbsp;Bemvindo <%=session("nm_nome")%> - ��o</span>
